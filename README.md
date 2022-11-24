@@ -12,7 +12,7 @@ An complete introduction is available [there in english](https://pigeoff.pw/fox/
 
 ### Add rss feeds
 
-There are two ways to add a rss feed. The first one is to manually add the url of the rss feed. Go in the tab "RSS Feeds" and click on the "+" button. Add the url there. The second way is to share a website from you favorite web browser. When sharing it, choose Fox RSS as destination app. Fox RSS will recognize automatically the rss feed if it exists.
+There are two ways to add an rss feed. The first one is to manually add the url of the rss feed. Go in the tab "RSS Feeds" and click on the "+" button. Add the url there. The second way is to share a website from your favorite web browser. When sharing it, choose Fox RSS as destination app. Fox RSS will recognize automatically the rss feed if it exists.
 
 ### Do your selection
 
@@ -20,9 +20,9 @@ In the first tab, drag the articles you want to the right and the ones you don't
 
 When you click on an article (in the swipe view or the selection view), a reader will open to let you read it. You can also open the article in your web browser from the reader view.
 
-### See all the articles of a rss feed
+### See all the articles of an rss feed
 
-If you want, you can have access to all the articles of a specific rss feed by clicking on it in the "RSS Feeds" tab.
+If you want, you can have access to all of the articles of a specific rss feed by clicking on it in the "RSS Feeds" tab.
 
 ## Contribution
 
